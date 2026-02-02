@@ -12,17 +12,17 @@ int main()
 
     printf("Initial Array:\n\n");
 
-    for (i = 0; i < n; i++)
+    for ( i = 0; i < n; i++ )
     {
         printf("%d ", arr[i]);
     }
     printf("\n\n");
 
-    for (i = 0; i < n - 1; i++)
+    for ( i = 0; i < n - 1; i++ )
     {
         minIndex = i;
 
-        for (j = i + 1; j < n; j++)
+        for ( j = i + 1; j < n; j++ )
         {
             if (arr[j] < arr[minIndex])
             {
@@ -41,7 +41,7 @@ int main()
 
     printf("Sorted Array:\n\n");
 
-    for (i = 0; i < n; i++)
+    for ( i = 0; i < n; i++ )
     {
         printf("%d ", arr[i]);
     }
