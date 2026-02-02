@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# but allow folders
+!*/
+
+# allow C files and markdown
+!*.c
+!*.h
+!*.md
+!.gitignore
