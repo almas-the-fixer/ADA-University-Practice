@@ -4,7 +4,10 @@
 
 ### How to run ? 
 
-1. Just clone the repo using git clone http or ssh or maybe download the zip (if you are noob enough to not know cloning...)
+1. Just clone the repo using git clone https or ssh or maybe download the zip (if you are noob enough to not know cloning...)
+
+Example using https: ``` git clone https://github.com/almas-the-fixer/ADA-University-Practice.git ```
+Example using ssh: ``` git clone git@github.com:almas-the-fixer/ADA-University-Practice.git ```
 
 2. Navigate to the directory of your interest e.g main/sorting for sorting programs by ``` cd main/sorting ```
 
