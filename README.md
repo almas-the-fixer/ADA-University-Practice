@@ -21,7 +21,7 @@ Example: linux => ``` ./bubble_sort.out ``` windows => ``` ./bubble_sort.exe ```
 
 ### Feedback? 
 
-- just raise an issue on github 
+- just raise an issue on github or message in WA grp
 
 ### Important!!!
 
